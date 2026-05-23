@@ -3,6 +3,8 @@
 ## Pré-requisitos
 
 - [Python 3.13+](https://www.python.org/downloads/release/python-3135/)
+- [Datasets PRF - 2017 a 2025 - Agrupados por ocorrência](https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf)
+
 
 ---
 
