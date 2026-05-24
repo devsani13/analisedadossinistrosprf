@@ -10,7 +10,7 @@
 
 ### **Principais dependências:**  
 > - Pandas
-> - Graphviz
+> - Plotly
 > - Sklearn
 
 ## Licença
